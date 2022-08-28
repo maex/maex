@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on security, governance, IT orchestration 
+🌱 I’m currently learning cloud services (azure)
+👯 I’m looking to collaborate on scripting/blueprints
+
 <!--
 **maex/maex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
